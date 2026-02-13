@@ -1,10 +1,8 @@
 {
-  "category": "HOAX",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/momo-challenge",
     "maintainers": [
       {
@@ -18,592 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "momo-challenge",
     "name": "Momo Challenge",
-    "aliases": [
-      {
-        "name": "Momo",
-        "region": "Global",
-        "meaning": "Derived from sculpture name"
-      },
-      {
-        "name": "Momo Game",
-        "region": "Global",
-        "meaning": "Media terminology"
-      },
-      {
-        "name": "Momo Suicide Challenge",
-        "region": "Global",
-        "meaning": "Sensationalized media term"
-      }
-    ],
-    "category": "HOAX",
-    "subcategory": "Moral Panic",
+    "aliases": [],
+    "category": "|_HOAX_|",
+    "subcategory": "Unknown",
     "tags": [
-      "internet-hoax",
-      "moral-panic",
-      "media-driven",
-      "debunked",
-      "misinformation",
-      "social-media",
-      "whatsapp",
-      "youtube",
-      "2018-2019",
-      "media-literacy",
-      "fear-mongering"
+      "folklore",
+      "mythology"
     ],
-    "status": "debunked_hoax",
-    "debunked": true,
-    "hoax": true,
-    "moral_panic": true,
+    "status": "documented",
     "description": {
-      "summary": "The Momo Challenge was an internet hoax and moral panic from 2018-2019 claiming a WhatsApp account with a disturbing profile image was encouraging children to perform dangerous tasks. Investigations by law enforcement and journalists found no evidence of actual participation or harm.",
-      "full": "The Momo Challenge represents a case study in media-driven moral panic and viral misinformation. In 2018-2019, news outlets worldwide reported on an alleged 'suicide game' targeting children through WhatsApp and YouTube, featuring a disturbing image of a bulging-eyed woman-bird creature. The image was actually from 'Mother Bird,' a sculpture by Japanese artist Keisuke Aisawa. Despite extensive police investigations finding zero evidence of actual challenges, coordinated attacks, or related deaths, the story went viral through sensationalized media coverage. The phenomenon demonstrates how media amplification can create widespread fear over a non-existent threat, and serves as an important lesson in digital media literacy and responsible journalism."
+      "summary": "> The Momo Challenge was an internet hoax and media-driven moral panic.",
+      "full": "> The Momo Challenge was an internet hoax and media-driven moral panic. Extensive investigations by law enforcement, journalists, and platforms found **ZERO evidence** of any actual challenge, coordinated attacks, or related harm. This entry serves as a case study in viral misinformation and media literacy."
     },
     "etymology": {
-      "origin": "Named after the sculpture 'Mother Bird' (often called 'Momo') by Japanese artist Keisuke Aisawa, created for the Japanese horror art company Link Factory in 2016",
-      "meaning": "The name 'Momo' was informally applied to the sculpture; 'Challenge' added by media coverage",
-      "first_use": "2018"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "HOAX",
-      "type": "Internet Hoax",
-      "subtype": "Moral Panic",
-      "variant": "Media-Amplified"
+      "category": "|_HOAX_|",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "blue-whale-challenge",
-        "name": "Blue Whale Challenge",
-        "relationship": "predecessor",
-        "description": "Earlier social media moral panic (2016-2017) with similar characteristics"
-      },
-      {
-        "id": "slenderman",
-        "name": "Slender Man",
-        "relationship": "similar",
-        "description": "Internet creepypasta that led to moral panic after 2014 stabbing incident"
-      },
-      {
-        "id": "satanic-panic",
-        "name": "Satanic Panic",
-        "relationship": "historical_parallel",
-        "description": "1980s-90s moral panic over alleged satanic ritual abuse"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
-    "hoax_elements": {
-      "claimed_threat": "WhatsApp account allegedly sending children instructions for self-harm and suicide",
-      "visual_component": "Disturbing sculpture image used as profile picture",
-      "target_demographic": "Children and teenagers",
-      "alleged_platform": "Primarily WhatsApp, later YouTube",
-      "claimed_mechanics": "Progressive tasks leading to self-harm and suicide",
-      "actual_evidence": "None - no verified cases found by any investigation"
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "media_characteristics": {
-      "viral_spread": "February-March 2019 (peak), with earlier wave in 2018",
-      "geographic_scope": "Global - reports from over 20 countries",
-      "media_amplification": "Extensive uncritical coverage by mainstream news outlets",
-      "parent_panic": "Schools and police issued warnings despite lack of evidence",
-      "streisand_effect": "Media warnings increased awareness and searches",
-      "correction_coverage": "Minimal compared to initial sensational reporting"
-    },
-    "psychological_factors": [
-      {
-        "factor": "Moral panic",
-        "description": "Adults' fears about children's internet safety",
-        "role": "primary_driver"
-      },
-      {
-        "factor": "Stranger danger narrative",
-        "description": "Fear of predators targeting children online",
-        "role": "amplifier"
-      },
-      {
-        "factor": "Technological anxiety",
-        "description": "Parental unfamiliarity with children's online activities",
-        "role": "vulnerability"
-      },
-      {
-        "factor": "Visual disturbance",
-        "description": "Disturbing sculpture image increased memorability and sharing",
-        "role": "attention_grabber"
-      }
-    ]
-  },
-
-  "distribution": {
-    "temporal": {
-      "first_appearance": {
-        "date": "2018-07",
-        "circa": false,
-        "source": "First media reports linking sculpture to alleged challenge"
-      },
-      "peak_activity": {
-        "period": "2019-02 to 2019-03",
-        "description": "Global media frenzy following viral social media posts"
-      },
-      "debunking_period": {
-        "period": "2019-03",
-        "description": "Major investigations published by journalists and law enforcement"
-      },
-      "current_status": "Thoroughly debunked; occasionally resurfaces as zombie hoax"
-    },
-    "geographic": {
-      "origin": "Unclear - viral spread obscures origin point",
-      "major_panic_regions": [
-        "United Kingdom",
-        "United States",
-        "India",
-        "Mexico",
-        "Argentina",
-        "France",
-        "Germany",
-        "Spain"
-      ],
-      "scope": "Global via social media and news coverage"
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
   "history": {
     "origins": {
-      "sculpture_creation": "2016 - Keisuke Aisawa creates 'Mother Bird' sculpture for Link Factory gallery in Tokyo",
-      "image_spread": "2016-2018 - Sculpture images circulate on horror/creepypasta websites",
-      "hoax_emergence": "Mid-2018 - Claims emerge linking image to dangerous WhatsApp challenge",
-      "media_discovery": "2018 - Latin American and European media begin reporting on alleged challenge"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "2016",
-        "event": "Mother Bird sculpture created",
-        "significance": "Artist Keisuke Aisawa creates sculpture for Link Factory horror art exhibit in Tokyo",
-        "source": "Link Factory, artist interviews"
-      },
-      {
-        "date": "2018-07",
-        "event": "First Momo Challenge reports",
-        "significance": "Media outlets in Argentina and Mexico report alleged WhatsApp suicide game",
-        "source": "Buenos Aires Times, Mexican news outlets"
-      },
-      {
-        "date": "2018-08",
-        "event": "First investigations",
-        "significance": "Police in Argentina and India investigate claims, find no evidence",
-        "source": "Buenos Aires police statements"
-      },
-      {
-        "date": "2019-02-25",
-        "event": "YouTube panic begins",
-        "significance": "Claims spread that Momo appearing in children's YouTube videos",
-        "source": "Social media posts, parent groups"
-      },
-      {
-        "date": "2019-02-27",
-        "event": "Global media frenzy",
-        "significance": "Major news outlets worldwide run stories warning about Momo Challenge",
-        "source": "BBC, CNN, The Guardian, etc."
-      },
-      {
-        "date": "2019-02-28",
-        "event": "YouTube statement",
-        "significance": "YouTube confirms finding no evidence of Momo Challenge videos",
-        "source": "YouTube official statement"
-      },
-      {
-        "date": "2019-03-01",
-        "event": "Law enforcement statements",
-        "significance": "Multiple police departments confirm no verified cases",
-        "source": "UK Safer Internet Centre, various police departments"
-      },
-      {
-        "date": "2019-03-05",
-        "event": "Major debunking articles",
-        "significance": "Atlantic, Vox, BBC Reality Check publish comprehensive debunking",
-        "source": "Multiple journalism outlets"
-      },
-      {
-        "date": "2019-03",
-        "event": "Sculpture destroyed",
-        "significance": "Artist destroys original Mother Bird sculpture due to unwanted attention",
-        "source": "Artist statements via Japanese media"
-      },
-      {
-        "date": "2019-08",
-        "event": "Academic analysis",
-        "significance": "Researchers publish papers analyzing the moral panic phenomenon",
-        "source": "Academic journals on media studies"
-      }
-    ],
-    "debunking_evidence": [
-      {
-        "source": "YouTube",
-        "finding": "No evidence of Momo Challenge videos found on platform",
-        "date": "2019-02-28"
-      },
-      {
-        "source": "UK Safer Internet Centre",
-        "finding": "No reported cases of children being harmed",
-        "date": "2019-03-01"
-      },
-      {
-        "source": "National Suicide Prevention Lifeline (USA)",
-        "finding": "No increase in youth suicide related to Momo",
-        "date": "2019-03"
-      },
-      {
-        "source": "Atlantic magazine investigation",
-        "finding": "Could not find single confirmed case of actual challenge",
-        "date": "2019-03-05"
-      },
-      {
-        "source": "Multiple police departments globally",
-        "finding": "No verified reports or evidence of organized challenge",
-        "date": "2019-03"
-      }
-    ]
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
   "evidence": {
-    "claimed_evidence": [
-      {
-        "claim": "WhatsApp messages from Momo account",
-        "reality": "No verified screenshots; likely hoaxes or trolling",
-        "status": "unverified"
-      },
-      {
-        "claim": "Children completing dangerous tasks",
-        "reality": "No documented cases found by any investigation",
-        "status": "fabricated"
-      },
-      {
-        "claim": "Suicides linked to Momo Challenge",
-        "reality": "Investigations found no connection; families disputed claims",
-        "status": "false"
-      },
-      {
-        "claim": "Momo appearing in YouTube Kids videos",
-        "reality": "YouTube investigation found zero evidence",
-        "status": "false"
-      }
-    ],
-    "actual_evidence": [
-      {
-        "type": "Investigative journalism",
-        "description": "Multiple journalists unable to find any verified cases",
-        "sources": ["The Atlantic", "BBC Reality Check", "Vox", "Snopes"]
-      },
-      {
-        "type": "Law enforcement investigations",
-        "description": "Police in multiple countries found no credible reports",
-        "sources": ["UK police", "US police departments", "Interpol"]
-      },
-      {
-        "type": "Platform investigations",
-        "description": "YouTube, WhatsApp found no evidence of coordinated challenge",
-        "sources": ["YouTube official statement", "Facebook/WhatsApp statements"]
-      },
-      {
-        "type": "Media analysis",
-        "description": "Academic research showing moral panic pattern",
-        "sources": ["Media studies journals", "Psychology research"]
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "how_hoax_spread": [
-      {
-        "mechanism": "Media amplification",
-        "description": "News outlets reported warnings without verifying existence of threat",
-        "evidence": "Pattern of coverage preceding any actual reports"
-      },
-      {
-        "mechanism": "Streisand Effect",
-        "description": "Warnings about Momo increased searches and awareness",
-        "evidence": "Google Trends data showing spikes following media coverage"
-      },
-      {
-        "mechanism": "Moral panic cycle",
-        "description": "Parents and authorities reacted to perceived threat to children",
-        "evidence": "School warnings, police statements despite lack of evidence"
-      },
-      {
-        "mechanism": "Viral image",
-        "description": "Disturbing sculpture image spread independently of any actual challenge",
-        "evidence": "Image was already circulating on horror websites before 'challenge' claims"
-      }
-    ],
-    "why_it_spread": [
-      {
-        "factor": "Parental anxiety",
-        "description": "Legitimate concerns about children's online safety made parents receptive",
-        "role": "vulnerability"
-      },
-      {
-        "factor": "Platform unfamiliarity",
-        "description": "Parents unfamiliar with WhatsApp, YouTube unable to verify claims",
-        "role": "information_gap"
-      },
-      {
-        "factor": "Precedent (Blue Whale)",
-        "description": "Earlier similar panic created template and plausibility",
-        "role": "context"
-      },
-      {
-        "factor": "Visual horror",
-        "description": "Disturbing image made story memorable and shareable",
-        "role": "attention"
-      },
-      {
-        "factor": "News competition",
-        "description": "Media outlets competed for clicks on sensational story",
-        "role": "amplifier"
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
-    "impact": {
-      "negative": [
-        "Increased parental anxiety without addressing real online safety issues",
-        "Wasted law enforcement resources investigating non-existent threat",
-        "Harm to artist who created unrelated sculpture",
-        "Potential copycat effect - hoax may have inspired actual harmful behavior",
-        "Erosion of trust in media reporting"
-      ],
-      "educational": [
-        "Case study in media literacy education",
-        "Example of moral panic in digital age",
-        "Lessons in critical thinking and source verification",
-        "Demonstration of Streisand Effect",
-        "Study in viral misinformation spread"
-      ]
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
-    "media_coverage": {
-      "sensational_coverage": [
-        "\"Momo Challenge: What parents need to know\" (widespread)",
-        "\"Disturbing Momo Challenge spreads to YouTube Kids\" (numerous outlets)",
-        "\"Police warn parents about deadly Momo Challenge\" (local news)"
-      ],
-      "debunking_coverage": [
-        "\"The Momo Challenge is a hoax\" - The Atlantic (March 2019)",
-        "\"Momo Challenge: The anatomy of a hoax\" - BBC Reality Check",
-        "\"How we all fell for the Momo Challenge hoax\" - Vox"
-      ]
-    },
-    "academic_interest": {
-      "research_areas": [
-        "Moral panic theory",
-        "Viral misinformation spread",
-        "Media literacy education",
-        "Digital folklore",
-        "Parent-child internet safety communication"
-      ],
-      "publications": [
-        "Academic papers on moral panics in social media age",
-        "Media studies analysis of coverage patterns",
-        "Psychology research on fear-based viral content"
-      ]
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "lessons": {
-    "media_literacy": [
-      {
-        "lesson": "Verify before sharing",
-        "description": "Sensational claims require extraordinary evidence",
-        "application": "Check multiple credible sources before believing or sharing alarming content"
-      },
-      {
-        "lesson": "Consider the source",
-        "description": "Evaluate credibility and possible motivations of information sources",
-        "application": "Distinguish between verified news and viral social media claims"
-      },
-      {
-        "lesson": "Beware moral panics",
-        "description": "Threats to children often trigger uncritical reactions",
-        "application": "Pause and verify when stories seem designed to provoke parental fear"
-      },
-      {
-        "lesson": "Streisand Effect awareness",
-        "description": "Warning about non-existent threats can create awareness and copycat behavior",
-        "application": "Consider whether publicity about a threat might make it worse"
-      }
-    ],
-    "journalism_lessons": [
-      {
-        "lesson": "Verify before reporting",
-        "description": "Journalists should independently verify claims before publication",
-        "failure": "Many outlets reported warnings without confirming challenge existed"
-      },
-      {
-        "lesson": "Avoid amplification",
-        "description": "Consider whether coverage might spread rather than prevent harm",
-        "failure": "Media coverage created awareness of hoax rather than protecting children"
-      },
-      {
-        "lesson": "Responsible correction",
-        "description": "Corrections should be as prominent as original sensational coverage",
-        "failure": "Debunking received far less coverage than initial panic stories"
-      }
-    ],
-    "parent_education": [
-      {
-        "lesson": "Open communication",
-        "description": "Talk to children about what they encounter online",
-        "application": "Create environment where children feel comfortable reporting concerns"
-      },
-      {
-        "lesson": "Actual threats exist",
-        "description": "While Momo was fake, real online dangers include cyberbullying, predators",
-        "application": "Focus on verified risks rather than viral panics"
-      },
-      {
-        "lesson": "Critical thinking education",
-        "description": "Teach children to evaluate online information critically",
-        "application": "Use hoaxes like Momo as teaching opportunities"
-      }
-    ]
-  },
-
   "research": {
-    "debunking_organizations": [
-      {
-        "name": "Snopes",
-        "url": "https://www.snopes.com",
-        "contribution": "Detailed fact-checking of Momo Challenge claims",
-        "verdict": "False - no evidence of actual challenge"
-      },
-      {
-        "name": "BBC Reality Check",
-        "url": "https://www.bbc.com/news/technology",
-        "contribution": "Investigation finding no verified cases",
-        "verdict": "Hoax amplified by media coverage"
-      },
-      {
-        "name": "PolitiFact",
-        "url": "https://www.politifact.com",
-        "contribution": "Fact-checking viral claims",
-        "verdict": "Pants on Fire rating"
-      }
-    ],
-    "academic_researchers": [
-      {
-        "name": "Dr. Benjamin Radford",
-        "affiliation": "Independent researcher",
-        "contribution": "Analysis of moral panic patterns",
-        "publications": ["Bad Clowns", "Media Mythmakers"]
-      },
-      {
-        "name": "Dr. Claire Wardle",
-        "affiliation": "First Draft News",
-        "contribution": "Misinformation and viral content research",
-        "focus": "How false information spreads online"
-      }
-    ],
-    "key_investigative_reports": [
-      {
-        "title": "The Momo Challenge Is Not a Real Thing",
-        "author": "Taylor Lorenz",
-        "publication": "The Atlantic",
-        "date": "2019-03-05",
-        "url": "https://www.theatlantic.com/technology/archive/2019/03/momo-challenge-hoax/584134/"
-      },
-      {
-        "title": "Momo Challenge: The anatomy of a hoax",
-        "author": "BBC Reality Check",
-        "publication": "BBC News",
-        "date": "2019-03-01"
-      },
-      {
-        "title": "The Momo Challenge hoax, explained",
-        "author": "Aja Romano",
-        "publication": "Vox",
-        "date": "2019-03-04"
-      }
-    ]
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "related_real_concerns": {
-    "actual_online_threats": [
-      {
-        "threat": "Cyberbullying",
-        "description": "Harassment and bullying via digital platforms",
-        "prevalence": "Common - affects significant portion of young people",
-        "resources": ["stopbullying.gov", "cybersmile.org"]
-      },
-      {
-        "threat": "Online predators",
-        "description": "Adults using platforms to contact and groom minors",
-        "prevalence": "Real but less common than media suggests",
-        "resources": ["missingkids.org", "netsmartz.org"]
-      },
-      {
-        "threat": "Mental health impact",
-        "description": "Social media's documented effects on youth mental health",
-        "prevalence": "Well-documented in research",
-        "resources": ["988 Suicide & Crisis Lifeline", "mentalheath.gov"]
-      },
-      {
-        "threat": "Misinformation exposure",
-        "description": "Children encountering false or manipulated information",
-        "prevalence": "Widespread",
-        "resources": ["Common Sense Media", "MediaSmarts"]
-      }
-    ],
-    "recommended_focus": "Rather than fearing viral hoaxes, parents and educators should focus on: open communication, critical thinking education, healthy technology habits, and awareness of actual documented risks."
-  },
-
-  "sources": [
-    {
-      "id": "atlantic-2019-lorenz",
-      "type": "article",
-      "title": "The Momo Challenge Is Not a Real Thing",
-      "authors": ["Taylor Lorenz"],
-      "publication": "The Atlantic",
-      "date": "2019-03-05",
-      "url": "https://www.theatlantic.com/technology/archive/2019/03/momo-challenge-hoax/584134/"
-    },
-    {
-      "id": "bbc-2019-reality-check",
-      "type": "article",
-      "title": "Momo Challenge: The anatomy of a hoax",
-      "authors": ["BBC Reality Check Team"],
-      "publication": "BBC News",
-      "date": "2019-03-01",
-      "url": "https://www.bbc.com/news/technology-47393510"
-    },
-    {
-      "id": "vox-2019-romano",
-      "type": "article",
-      "title": "The Momo Challenge hoax, explained",
-      "authors": ["Aja Romano"],
-      "publication": "Vox",
-      "date": "2019-03-04",
-      "url": "https://www.vox.com/2019/3/4/18249572/momo-challenge-hoax-explained"
-    },
-    {
-      "id": "youtube-2019-statement",
-      "type": "statement",
-      "title": "YouTube statement on Momo Challenge",
-      "organization": "YouTube",
-      "date": "2019-02-28",
-      "finding": "No evidence of Momo Challenge content found on platform"
-    },
-    {
-      "id": "snopes-momo",
-      "type": "fact-check",
-      "title": "The Momo Challenge",
-      "organization": "Snopes",
-      "verdict": "False",
-      "url": "https://www.snopes.com/fact-check/momo-challenge/"
-    }
-  ]
+  "sources": []
 }
